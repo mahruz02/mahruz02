@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mahruz02
-- 👀 I’m interested in front-end web dev
-- 🌱 I’m currently learning reactJS
+- 👋 Hi, I’m Ahmad Mahrus
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me on another level of coding
 
